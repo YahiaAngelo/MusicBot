@@ -1,4 +1,6 @@
 discord.py[voice]
 youtube_dl
 colorlog
+aiohttp
+beautifulsoup4
 cffi --only-binary all; sys_platform == 'win32'
